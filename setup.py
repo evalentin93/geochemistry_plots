@@ -16,7 +16,7 @@ setup(
     author='Eduardo Valentin',
     author_email='eduardovalentindossantos@gmail.com',
     install_requires=install_requires,
-    packages=['geoplot'],
+    packages=['geoplots'],
     classifiers=[
         'Development Status :: 3 - Beta',
         'Intended Audience :: Science/Research',
