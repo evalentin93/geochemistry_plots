@@ -5,7 +5,7 @@ install_requires = [
     ]
 
 setup(
-    name='geoplot',
+    name='geoplots',
     version=0.1,
     description="""
         geoplot is a Python module that expands TASplot, from John A.
