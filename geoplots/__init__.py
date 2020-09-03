@@ -49,7 +49,7 @@ def add_Peccerillo_fields(plot_axes, fontsize=8, color=(0.6, 0.6, 0.6)):
               FieldLine(x1=56, y1=3.2, x2=70, y2=4.8))
 
     FieldName = namedtuple('FieldName', 'name x y rotation')
-    names = (FieldName('Low K Calc-Alkaline\nSeries/Tholeite Series', 65, 0.7, 0),
+    names = (FieldName('Low K Calc-alkaline\nSeries/Tholeite Series', 65, 0.7, 0),
              FieldName('Calc-alkaline\nSeries', 67, 2.2, 0),
              FieldName('High K Calc-alkaline\nSeries', 65, 3.5, 0),
              FieldName('Shoshonite Series', 48, 3.8, 0))
